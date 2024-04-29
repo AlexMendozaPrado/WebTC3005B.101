@@ -1,3 +1,6 @@
 [submodule "04-nestjs-rick-and-morty"]
 	path = 04-nestjs-rick-and-morty
 	url = https://github.com/AlexMendozaPrado/04-nestjs-rick-and-morty.git
+[submodule "03-profile"]
+	path = 03-profile
+	url = https://github.com/AlexMendozaPrado/03-profile.git
